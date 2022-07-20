@@ -1,6 +1,6 @@
-# portfolio-html-js-css
+# Porfolio Site Using Pure HTML CSS JavaScript
 
-#CSS
+## CSS Learning
 
 **:root**
 
