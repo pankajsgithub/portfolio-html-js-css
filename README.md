@@ -1,4 +1,4 @@
-# Porfolio Site Using Pure HTML CSS JavaScript
+# Portfolio Site Using Pure HTML CSS JavaScript
 
 ## CSS Learning
 
